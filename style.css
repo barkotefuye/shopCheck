@@ -1,0 +1,39 @@
+.body_layout {
+	font-family:Arial;
+	position:fixed;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+}
+
+#machine_body{
+	font-family: Arial;
+}
+
+.machine {
+width:100px;
+height:100px;
+color:blue;
+background-color: black;
+}
+
+#left_column {
+	float:left;
+	width: 100px;
+	height: 50px;
+	background-color:red;
+	margin-left:5%;
+}
+
+#right_column {
+	float: right;
+	margin-left: 200px;
+	height: 100px;
+	width: 50px;
+	background-color: green;
+	margin-left:10%;
+	margin-right:60%;
+	
+}
+/*aspreight
+jobs@koder.com*/
